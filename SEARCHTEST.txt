@@ -1,0 +1,3 @@
+testing 
+repos
+pmdm-read-s.kohls.com:het
